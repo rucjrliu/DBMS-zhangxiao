@@ -836,10 +836,6 @@ void testprint(){
 
 int main(int argc, char* argv[])
 {
-    fclose(fopen("supplier_meta.tb", "wb"));
-    fclose(fopen("supplier.tb", "wb"));
-    fclose(fopen("nation_meta.tb", "wb"));
-    fclose(fopen("nation.tb", "wb"));
     iostream::sync_with_stdio(true);
     //初始化WSA
     WORD sockVersion = MAKEWORD(2,2);

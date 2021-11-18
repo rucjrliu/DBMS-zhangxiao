@@ -1,0 +1,4 @@
+C:/Users/HP/CLionProjects/DBMS-zhangxiao/cmake-build-debug/CMakeFiles/homework2.dir
+C:/Users/HP/CLionProjects/DBMS-zhangxiao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/CLionProjects/DBMS-zhangxiao/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/HP/CLionProjects/DBMS-zhangxiao/cmake-build-debug/CMakeFiles/edit_cache.dir
